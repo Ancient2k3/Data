@@ -1,0 +1,51 @@
+return {
+    ["Fruits"] = {
+        ["BombBomb"] = {"BombBomb", 1},
+        ["HumanHuman"] = {"HumanHuman", 1},
+        ["SpikeSpike"] = {"SpikeSpike", 1},
+        ["BarrierBarrier"] = {"BarrierBarrier", 1},
+        ["PawPaw"] = {"PawPaw", 1},
+        ["LoveLove"] = {"LoveLove", 1},
+        ["StringString"] = {"StringString", 1},
+        ["WolfWolf"] = {"WolfWolf", 1},
+        ["GiraffeGiraffe"] = {"GiraffeGiraffe", 1},
+        ["ShadowShadow"] = {"ShadowShadow", 1},
+        ["SmokeSmoke"] = {"SmokeSmoke", 1},
+        ["GumGum"] = {"GumGum", 1},
+        ["OpOp"] = {"OpOp", 1},
+        ["LeopardLeopard"] = {"LeopardLeopard", 1},
+        ["RumbleRumble"] = {"RumbleRumble", 1},
+        ["SpiritSpirit"] = {"SpiritSpirit", 1},
+        ["GoldGold"] = {"GoldGold", 1}
+    },
+    ["Swords"] = {
+        ["Katana"] = {"Katana", 1},
+        ["Tashi Blade"] = {"Tashi Blade", 1},
+        ["Avalon"] = {"Avalon", 1},
+        ["Mini Mace"] = {"Mini Mace", 1},
+        ["Pipe"] = {"Pipe", 1},
+        ["Barbaric Axe"] = {"Barbaric Axe", 1},
+        ["Jitter"] = {"Jitter", 1},
+        ["Anubis Axe"] = {"Anubis Axe", 1},
+        ["Pole"] = {"Pole", 1},
+        ["Gold Spear"] = {"Gold Spear", 1},
+        ["Triple Katana"] = {"Triple Katana", 1},
+        ["Shark Blade"] = {"Shark Blade", 1},
+        ["Pondere Blade"] = {"Pondere Blade", 1},
+        ["Demon Trident"] = {"Demon Trident", 1},
+        ["Metal Trident"] = {"Metal Trident", 1},
+        ["Adventure Knife"] = {"Adventure Knife", 1},
+        ["Bisento"] = {"Bisento", 1},
+        ["Hell Sword"] = {"Hell Sword", 1},
+        ["Cookie Sword"] = {"Cookie Sword", 1},
+        ["Muramasa"] = {"Muramasa", 1},
+        ["Dragons Standard"] = {"Dragons Standard", 1},
+        ["Saber"] = {"Saber", 1},
+        ["Apollos Sword"] = {"Apollos Sword", 1},
+        ["Phoenix Blade"] = {"Phoenix Blade", 1}
+    },
+    ["Fighting Styles"] = {
+        ["Combat"] = {"Combat", 1},
+        ["Electro"] = {"Electro", 1}
+    }
+}
