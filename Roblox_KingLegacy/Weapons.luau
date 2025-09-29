@@ -49,6 +49,9 @@ return {
     ["Fighting Styles"] = {
         ["Combat"] = {"Combat", 1},
         ["Electro"] = {"Electro", 1},
-        ["Cyborg"] = {"Cyborg", 1}
+        ["Cyborg"] = {"Cyborg", 1},
+        ["Dark Leg"] = {"Dark Leg", 1},
+        ["Water Style"] = {"Water Style", 1},
+        ["Dragon Claw"] = {"Dragon Claw", 1}
     }
 }
