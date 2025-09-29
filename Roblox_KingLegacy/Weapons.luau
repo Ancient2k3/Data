@@ -43,10 +43,12 @@ return {
         ["Saber"] = {"Saber", 1},
         ["Apollos"] = {"Apollos", 1},
         ["Phoenix Blade"] = {"Phoenix Blade", 1},
-        ["Kioru"] = {"Kioru", 1}
+        ["Kioru"] = {"Kioru", 1},
+        ["Authentic Triple Katana"] = {"Authentic Triple Katana", 1}
     },
     ["Fighting Styles"] = {
         ["Combat"] = {"Combat", 1},
-        ["Electro"] = {"Electro", 1}
+        ["Electro"] = {"Electro", 1},
+        ["Cyborg"] = {"Cyborg", 1}
     }
 }
