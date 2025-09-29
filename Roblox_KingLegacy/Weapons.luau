@@ -41,8 +41,9 @@ return {
         ["Muramasa"] = {"Muramasa", 1},
         ["Dragons Standard"] = {"Dragons Standard", 1},
         ["Saber"] = {"Saber", 1},
-        ["Apollos Sword"] = {"Apollos Sword", 1},
-        ["Phoenix Blade"] = {"Phoenix Blade", 1}
+        ["Apollos"] = {"Apollos", 1},
+        ["Phoenix Blade"] = {"Phoenix Blade", 1},
+        ["Kioru"] = {"Kioru", 1}
     },
     ["Fighting Styles"] = {
         ["Combat"] = {"Combat", 1},
