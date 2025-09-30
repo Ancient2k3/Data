@@ -50,8 +50,8 @@ return {
         ["Combat"] = {"Combat", 1},
         ["Electro"] = {"Electro", 1},
         ["Cyborg"] = {"Cyborg", 1},
-        ["Dark Leg"] = {"Dark Leg", 1},
-        ["Water Style"] = {"Water Style", 1},
-        ["Dragon Claw"] = {"Dragon Claw", 1}
+        ["DarkLeg"] = {"DarkLeg", 1},
+        ["WaterStyle"] = {"WaterStyle", 1},
+        ["DragonClaw"] = {"DragonClaw", 1}
     }
 }
