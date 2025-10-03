@@ -16,7 +16,25 @@ return {
         ["LeopardLeopard"] = {"LeopardLeopard", 1},
         ["RumbleRumble"] = {"RumbleRumble", 1},
         ["SpiritSpirit"] = {"SpiritSpirit", 1},
-        ["GoldGold"] = {"GoldGold", 1}
+        ["GoldGold"] = {"GoldGold", 1},
+        ["MammothMammoth"] = {"MammothMammoth", 1},
+        ["BuddhaBuddha"] = {"BuddhaBuddha", 1},
+        ["VenomVenom"] = {"VenomVenom", 1},
+        ["GravityGravity"] = {"GravityGravity", 1},
+        ["FlameFlame"] = {"FlameFlame", 1},
+        ["IceIce"] = {"IceIce", 1},
+        ["LightLight"] = {"LightLight", 1},
+        ["DarknessDarkness"] = {"DarknessDarkness", 1},
+        ["MagmaMagma"] = {"MagmaMagma", 1},
+        ["SnowSnow"] = {"SnowSnow", 1},
+        ["SandSand"] = {"SandSand", 1},
+        ["PhoenixPhoenix"] = {"PhoenixPhoenix", 1},
+        ["GateGate"] = {"GateGate", 1},
+        ["ToyToy"] = {"ToyToy", 1},
+        ["MelodyMelody"] = {"MelodyMelody", 1},
+        ["DoughDough"] = {"DoughDough", 1},
+        ["DragonDragon"] = {"DragonDragon", 1},
+        ["GasGas"] = {"GasGas", 1}
     },
     ["Swords"] = {
         ["Katana"] = {"Katana", 1},
@@ -47,11 +65,14 @@ return {
         ["Authentic Triple Katana"] = {"Authentic Triple Katana", 1}
     },
     ["Fighting Styles"] = {
-        ["Combat"] = {"Combat", 1},
+        ["None"] = {"None", 1},
         ["Electro"] = {"Electro", 1},
         ["Cyborg"] = {"Cyborg", 1},
         ["DarkLeg"] = {"DarkLeg", 1},
         ["WaterStyle"] = {"WaterStyle", 1},
-        ["DragonClaw"] = {"DragonClaw", 1}
+        ["DragonClaw"] = {"DragonClaw", 1},
+        ["Trickster"] = {"Trickster", 1},
+        ["GaleFist"] = {"GaleFist", 1},
+        ["JusticeFist"] = {"JusticeFist", 1}
     }
 }
